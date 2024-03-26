@@ -2,8 +2,8 @@
   "files": [
     "dist"
   ],
-  "main": "./dist/use-watch-storagey.umd.js",
-  "module": "./dist/use-watch-storagey.es.js",
+  "main": "./dist/use-watch-storage.umd.js",
+  "module": "./dist/use-watch-storage.es.js",
   "exports": {
     ".": {
       "import": "./dist/use-watch-storage.es.js",
