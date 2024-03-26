@@ -3,7 +3,7 @@ name: A Package for Utilities Functions and Hooks
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
