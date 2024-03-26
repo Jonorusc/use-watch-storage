@@ -1,7 +1,3 @@
-/*
-I CREATED THIS HOOK BECAUSE I LIKE TO USE HOOK-TS AND I DIDN'T FIND ANYTHING LIKE SO FOR VUE 3, SO I CREATED IT 
-*/
-
 import { onMounted, onUnmounted, MaybeRefOrGetter, ref, UnwrapRef, Ref, watch } from "vue"
 import _ from "lodash"
 
