@@ -27,7 +27,7 @@
     "preview": "vite preview",
     "test": "exit 0"
   },
-  "name": "@devbylucas/use-watch-storage",
+  "name": "@jonorusc/use-watch-storage",
   "version": "0.0.0",
   "type": "module",
   "dependencies": {
