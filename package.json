@@ -12,11 +12,11 @@
   },
   "types": "./dist/types/index.d.ts",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@jonorusc"
+    "registry": "https://npm.pkg.github.com/@Jonorusc"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonorusc/use-watch-storage"
+    "url": "https://github.com/Jonorusc/use-watch-storage"
   },
   "scripts": {
     "dev": "vite",
