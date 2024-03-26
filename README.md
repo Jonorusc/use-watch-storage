@@ -7,7 +7,7 @@ The useWatchStorage hook provides a convenient way to synchronize Vue reactive s
 ## Installation
 
 ```bash
-yarn add @devbylucas/use-watch-storage
+yarn add @jonorusc/use-watch-storage
 ```
 
 ## Parameters
@@ -26,7 +26,7 @@ yarn add @devbylucas/use-watch-storage
 ## Usage
 
 ```javascript
-import { useWatchStorage } from '@devbylucas/use-watch-storage';
+import { useWatchStorage } from '@jonorusc/use-watch-storage';
 
 <script setup>
   const [storedValue, setValue] = useWatchStorage('key', 'initialValue');
